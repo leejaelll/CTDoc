@@ -2,7 +2,7 @@
 # 기술면접 대비
 
 ## 목차
-- ### [HTML](https://github.com/leejaelll/CTDoc/tree/html);
+- ### [HTML](https://github.com/leejaelll/CTDoc/tree/html)
 - CSS
 - Sass
 - Tailwind
